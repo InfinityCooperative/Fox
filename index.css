@@ -16,3 +16,7 @@ body{
     position: relative;
     height: 45px;
 }
+.rodape{
+    background-color: beige;
+    height: auto;
+}
