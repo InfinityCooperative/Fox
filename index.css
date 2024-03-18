@@ -2,6 +2,14 @@ body{
     background-color: rgb(218, 241, 236);
     text-align: center;
 }
+.cabeçalho{
+    background-color: rgb(218, 241, 236);
+    border-width: 0.7px;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
+    height: auto;
+}
 .logo{
     margin-top: 0px;
     position: relative;
