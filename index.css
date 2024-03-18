@@ -17,6 +17,10 @@ body{
     height: 45px;
 }
 .rodape{
-    background-color: beige;
-    height: auto;
+        background-color: rgb(218, 241, 236);
+        border-radius: 5px;
+        border-width: 0.7px;
+        border-style: solid;
+        border-color: #000;
+        height: auto;
 }
