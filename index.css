@@ -3,18 +3,18 @@ body{
     text-align: center;
 }
 .logo{
+    margin-top: 0px;
     position: relative;
-    width: 299px;
-    margin-top: 10px;
+    height: 200px;
 }
 .imagem{
     position: relative;
+    height: 40px;
     margin: 20px;
-    height: 25px;
 }
 .referencia{
     position: relative;
-    height: 35px;
+    height: 25px;
 }
 .rodape{
         background-color: orange;
