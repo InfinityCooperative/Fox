@@ -49,18 +49,8 @@ a:link {
   color: black;
   text-decoration: none;
 }
-/*Link já visitado*/
-a:visited {
-  color: purple;
-  text-decoration: none;
-}
 /*Quando o mouse passa por cima*/
 a:hover {
   color: blue;
-  text-decoration: none;
-}
-/*Link ativo/selecionado*/
-a:active {
-  color: white;
   text-decoration: none;
 }
