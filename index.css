@@ -32,3 +32,20 @@ body{
     position: relative;
     height: 25px;
 }
+.cooperacao1{
+    position: relative;
+    margin: 10px;
+}
+.cooperacao2{
+    position: relative;
+    margin: 10px;
+}
+.cooperacao3{
+    position: relative;
+    margin: 10px;
+}
+/*Link não visitado */
+a:link {
+  color: black;
+  text-decoration: none;
+}
