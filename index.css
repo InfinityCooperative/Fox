@@ -38,20 +38,20 @@ a:link {
   text-decoration: none;
 }
 /*Link já visitado*/
-a:visited {
+/*a:visited {
   color: purple;
   text-decoration: none;
 }
 /*Quando o mouse passa por cima*/
-a:hover {
+/*a:hover {
   color: blue;
   text-decoration: none;
 }
 /*Link ativo/selecionado*/
-a:active {
+/*a:active {
   color: white;
   text-decoration: none;
-}
+}*/
 .referencia{
     position: relative;
     height: 25px;
