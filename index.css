@@ -1,7 +1,6 @@
 body{
     background-color: rgb(218, 241, 236);
     text-align: center;
-    color: black;
 }
 .cabecalho{
     background-color: orange;
@@ -44,6 +43,7 @@ body{
 .cooperacao3{
     position: relative;
     margin: 10px;
+    color: black;
 }
 /*Link não visitado */
 a:link {
