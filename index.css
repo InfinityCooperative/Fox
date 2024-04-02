@@ -1,12 +1,10 @@
-*{
-    text-align: center;
+body{
+    background-color: orange;
+     text-align: center;
     color: black;
 }
-body{
-    background-color: rgb(218, 241, 236);
-}
 .cabecalho{
-    background-color: orange;
+    background-color: rgb(218, 241, 236);
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
@@ -26,7 +24,7 @@ body{
     height: 200px;
 }
 .rodape{
-    background-color: orange;
+    background-color: rgb(218, 241, 236);
     border-radius: 5px;
     border-width: 0.7px;
     border-style: solid;
