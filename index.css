@@ -17,17 +17,17 @@ body{
 }
 .voltar{
     height: 35px;
-    margin:0% 0% 0% -95%;
+    margin: -3% 0% 0% -86%;
 }
 .bandeira{
     position: absolute;
-    margin: -57px 0% 0% 75%;
+    margin: -57px 0% 0% 69%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover{
     position: absolute;
-    margin: -18px 0% 0% 75%;
+    margin: -18px 0% 0% 69%;
     height: 80px;
     transition: 1s;
 }
