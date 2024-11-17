@@ -21,13 +21,13 @@ body{
 }
 .bandeira{
     position: absolute;
-    margin: -57px 0% 0% 40%;
+    margin: -57px 0% 0% 75%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover{
     position: absolute;
-    margin: -18px 0% 0% 40%;
+    margin: -18px 0% 0% 75%;
     height: 80px;
     transition: 1s;
 }
