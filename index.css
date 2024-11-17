@@ -5,6 +5,7 @@ body{
     color: black;
 }
 .cabecalho{
+    min-width: 100vh;
     background:url(imagens/laranja.avif) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -21,13 +22,13 @@ body{
 }
 .bandeira{
     position: absolute;
-    margin: -57px 0% 0% 76%;
+    margin: -57px 0% 0% 40%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover{
     position: absolute;
-    margin: -18px 0% 0% 76%;
+    margin: -18px 0% 0% 40%;
     height: 80px;
     transition: 1s;
 }
@@ -37,6 +38,7 @@ body{
     height: 250px;
 }
 .rodape{
+    min-width: 100vh;
      background:url(imagens/laranja.avif) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
