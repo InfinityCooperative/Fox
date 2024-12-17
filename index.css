@@ -110,3 +110,8 @@ img.doacao:hover{
 a{
      display: contents;
 }
+.nomes{
+    margin: 2%;
+    display: flex;
+    justify-content: space-around;
+}
