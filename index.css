@@ -86,8 +86,13 @@ h4 {
 .cooperacao3:hover,
 .cooperacao4:hover,
 .cooperacao5:hover {
-     color: rgb(20, 3, 255);
-     text-decoration: underline;
+    color: rgb(20, 3, 255);
+    text-decoration: underline;
+}
+.nomes{
+    margin: 2%;
+    display: flex;
+    justify-content: space-around;
 }
 .direitos {
      font-size: 9px;
